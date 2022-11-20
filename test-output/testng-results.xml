@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-20T16:04:09 EET" name="Default suite" finished-at="2022-11-20T16:04:33 EET" duration-ms="24617">
+    <groups>
+    </groups>
+    <test started-at="2022-11-20T16:04:09 EET" name="Default test" finished-at="2022-11-20T16:04:33 EET" duration-ms="24617">
+      <class name="testAuto.Sorting">
+        <test-method is-config="true" signature="login()[pri:0, instance:testAuto.Sorting@740cae06]" started-at="2022-11-20T16:04:09 EET" name="login" finished-at="2022-11-20T16:04:33 EET" duration-ms="23911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testSorting_Low_to_high()[pri:0, instance:testAuto.Sorting@740cae06]" started-at="2022-11-20T16:04:33 EET" name="testSorting_Low_to_high" finished-at="2022-11-20T16:04:33 EET" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSorting_Low_to_high -->
+      </class> <!-- testAuto.Sorting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
